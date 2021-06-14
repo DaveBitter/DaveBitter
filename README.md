@@ -14,6 +14,9 @@ My latest articles:
 * 📝 [A simple, yet detailed introduction to Next.js](https://davebitter.com/articles/a-simple-yet-detailled-introduction-to-next-js)
 * 📝 [How can we develop and design for a PWA to deliver the best native user experience?](https://davebitter.com/articles/how-can-we-develop-and-design-for-a-pwa-to-deliver-the-best-native-user-experience)
 
+## YouTube 🎥
+I publish a new YouTube video on the Frontmen channel with front-end tips every Friday. You can check it out [here](https://www.youtube.com/watch?v=ewtT4NJX6NA&list=PLsES66lgcKHD9oRnyN3PEvyTjWXJF4IgT)
+
 ## Social 📱
 You can find me on the following social media platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/davebitter)
