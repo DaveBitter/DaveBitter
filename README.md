@@ -15,7 +15,7 @@ My latest articles:
 * 📝 [A simple, yet detailed introduction to Next.js](https://davebitter.com/articles/a-simple-yet-detailled-introduction-to-next-js)
 
 ## YouTube 🎥
-I publish a new YouTube video on the Frontmen channel with front-end tips every Friday. You can check it out [here](https://www.youtube.com/watch?v=ewtT4NJX6NA&list=PLsES66lgcKHD9oRnyN3PEvyTjWXJF4IgT)
+I publish a new YouTube video on the Frontmen channel with front-end tips every Friday. You can check it out [here](https://www.youtube.com/watch?v=ewtT4NJX6NA&list=PLsES66lgcKHD9oRnyN3PEvyTjWXJF4IgT)!
 
 My latest videos:
 * 📝 [Intl | Friday Tips #7](https://davebitter.com/friday-tips/intl)
