@@ -17,6 +17,13 @@ My latest articles:
 ## YouTube 🎥
 I publish a new YouTube video on the Frontmen channel with front-end tips every Friday. You can check it out [here](https://www.youtube.com/watch?v=ewtT4NJX6NA&list=PLsES66lgcKHD9oRnyN3PEvyTjWXJF4IgT)
 
+My latest videos:
+* 📝 [Intl | Friday Tips #7](https://davebitter.com/friday-tips/intl)
+* 📝 [PlopJS | Friday Tips #6](https://davebitter.com/friday-tips/plopjs)
+* 📝 [GitHub actions | Friday Tips #5](https://davebitter.com/friday-tips/github-actions)
+* 📝 [React Query | Friday Tips #4](https://davebitter.com/friday-tips/react-query)
+* 📝 [GitHub template repositories | Friday Tips #3](https://davebitter.com/friday-tips/github-template-repositories)
+
 ## Social 📱
 You can find me on the following social media platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/davebitter)
