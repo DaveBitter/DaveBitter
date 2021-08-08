@@ -8,21 +8,21 @@ I strive while utilising both the logical and creative part of the brain. I feel
 I write a lot on a wide range of topics regarding front-end development and everything linked to that. You can have a look at [davebitter.com](https://www.davebitter.com)!
 
 My latest articles:
+* 📝 [You should use the Intl browser API](https://davebitter.com/articles/you-should-use-intl)
 * 📝 [What&#39;s new in Next.js 11?](https://davebitter.com/articles/next-js-11)
 * 📝 [Why I write and you should too](https://davebitter.com/articles/why-i-write)
 * 📝 [Design handoff in the browser](https://davebitter.com/articles/design-handoff-in-the-browser)
 * 📝 [I build a neumorphic Pomodoro to stay sane](https://davebitter.com/articles/neumorphic-pomodoro)
-* 📝 [A simple, yet detailed introduction to Next.js](https://davebitter.com/articles/a-simple-yet-detailled-introduction-to-next-js)
 
 ## YouTube 🎥
 I publish a new YouTube video on the Frontmen channel with front-end tips every Friday. You can check it out [here](https://www.youtube.com/watch?v=ewtT4NJX6NA&list=PLsES66lgcKHD9oRnyN3PEvyTjWXJF4IgT)!
 
 My latest videos:
+* 📝 [CodeTour Visual Studio Code extension | Friday Tips #8](https://davebitter.com/friday-tips/codetour-visual-studio-code-extension)
 * 📝 [Intl | Friday Tips #7](https://davebitter.com/friday-tips/intl)
 * 📝 [PlopJS | Friday Tips #6](https://davebitter.com/friday-tips/plopjs)
 * 📝 [GitHub actions | Friday Tips #5](https://davebitter.com/friday-tips/github-actions)
 * 📝 [React Query | Friday Tips #4](https://davebitter.com/friday-tips/react-query)
-* 📝 [GitHub template repositories | Friday Tips #3](https://davebitter.com/friday-tips/github-template-repositories)
 
 ## Social 📱
 You can find me on the following social media platforms or send me an email:
