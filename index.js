@@ -25,7 +25,7 @@ const getVideos = async () => {
 const generateReadMe = async () => {
     const readMeData = {
         articles: (await getArticles()).slice(0, 5),
-        videos: (await getVideos()).slice(0, 5)
+        videos: (await getVideos()).reverse().slice(0, 5)
     };
 
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
