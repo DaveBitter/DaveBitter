@@ -1,3 +1,5 @@
+_Curious how this dynamic README was made? Check out https://youtu.be/jVg-qkQ01lI_
+
 # Hi, I'm Dave 👋
 
 <strong>I am a Senior Front-end Engineer and Designer.</strong>
