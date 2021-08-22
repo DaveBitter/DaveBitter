@@ -20,11 +20,11 @@ My latest articles:
 I publish a new YouTube video on the Frontmen channel with front-end tips every Friday. You can check it out [here](https://www.youtube.com/watch?v=ewtT4NJX6NA&list=PLsES66lgcKHD9oRnyN3PEvyTjWXJF4IgT)!
 
 My latest videos:
-* 📝 [Chromatic for Storybook | Friday Tips #9](https://davebitter.com/friday-tips/chromatic-for-storybook)
-* 📝 [CodeTour Visual Studio Code extension | Friday Tips #8](https://davebitter.com/friday-tips/codetour-visual-studio-code-extension)
-* 📝 [Intl | Friday Tips #7](https://davebitter.com/friday-tips/intl)
-* 📝 [PlopJS | Friday Tips #6](https://davebitter.com/friday-tips/plopjs)
-* 📝 [GitHub actions | Friday Tips #5](https://davebitter.com/friday-tips/github-actions)
+* 📝 [GitHub profile README | Friday Tips #0](https://davebitter.com/friday-tips/github-profile-readme)
+* 📝 [Quokka.js Visual Studio Code extension | Friday Tips #1](https://davebitter.com/friday-tips/quokka.js-visual-studio-code-extension)
+* 📝 [GitHub template repositories | Friday Tips #3](https://davebitter.com/friday-tips/github-template-repositories)
+* 📝 [Payment Request API | Friday Tips #2](https://davebitter.com/friday-tips/payment-request-api)
+* 📝 [React Query | Friday Tips #4](https://davebitter.com/friday-tips/react-query)
 
 ## Social 📱
 You can find me on the following social media platforms or send me an email:
