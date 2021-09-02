@@ -19,13 +19,13 @@ const getVideos = async () => {
     const result = await fetch('https://www.davebitter.com/api/content/friday-tips')
         .then(response => response.json())
 
-    return result.fridayTips.map(({ title, slug }) => ({ title: title.splice(title.length - 1, 0, "#"), slug }));
+    return result.fridayTips.map(({ title, slug }) => ({ title: title, slug }));
 }
 
 const generateReadMe = async () => {
     const readMeData = {
         articles: (await getArticles()).slice(0, 5),
-        videos: (await getVideos()).reverse().slice(0, 5)
+        videos: (await getVideos()).slice(0, 5)
     };
 
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
