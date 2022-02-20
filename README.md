@@ -10,11 +10,11 @@ I strive while utilising both the logical and creative part of the brain. I feel
 I write a lot on a wide range of topics regarding front-end development and everything linked to that. You can have a look at [davebitter.com](https://www.davebitter.com)!
 
 My latest articles:
+* 📝 [Remix’ powerful hidden feature you might not have noticed yet](https://davebitter.com/articles/remix-handle-export)
 * 📝 [Remix LoaderFunction vs ActionFunction](https://davebitter.com/articles/remix-loaderfunction-vs-actionfunction)
 * 📝 [First look at Remix](https://davebitter.com/articles/first-look-at-remix)
 * 📝 [You should use the Intl browser API](https://davebitter.com/articles/you-should-use-intl)
 * 📝 [What&#39;s new in Next.js 11?](https://davebitter.com/articles/next-js-11)
-* 📝 [Why I write and you should too](https://davebitter.com/articles/why-i-write)
 
 ## YouTube 🎥
 I publish a new YouTube video on the Frontmen channel with front-end tips every Friday. You can check it out [here](https://www.youtube.com/watch?v=ewtT4NJX6NA&list=PLsES66lgcKHD9oRnyN3PEvyTjWXJF4IgT)!
