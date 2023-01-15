@@ -10,11 +10,11 @@ I strive while utilising both the logical and creative part of the brain. I feel
 I write a lot on a wide range of topics regarding front-end development and everything linked to that. You can have a look at [davebitter.com](https://www.davebitter.com)!
 
 My latest articles:
-* 📝 [Smart cropping with native browser Face Detection](https://davebitter.com/articles/native-face-detection-cropping)
-* 📝 [The infinite legacy cycle in front-end](https://davebitter.com/articles/the-infinite-legacy-cycle-in-front-end)
-* 📝 [Remix’ powerful hidden feature you might not have noticed yet](https://davebitter.com/articles/remix-handle-export)
-* 📝 [Remix LoaderFunction vs ActionFunction](https://davebitter.com/articles/remix-loaderfunction-vs-actionfunction)
-* 📝 [First look at Remix](https://davebitter.com/articles/first-look-at-remix)
+* 📝 [Unleash the Power of Web Workers for Blazing Fast JavaScript Execution](https://davebitter.com/articles/web-workers)
+* 📝 [I want to React.use() this!](https://davebitter.com/articles/i-want-to-react-use-this)
+* 📝 [You need CSS Cascade Layers](https://davebitter.com/articles/you-need-css-cascade-layers)
+* 📝 [Developers are not Trusted Types!](https://davebitter.com/articles/developers-are-not-trusted-types)
+* 📝 [How do I setup CI&#x2F;CD &amp; hosting?](https://davebitter.com/articles/ci-cd-hosting)
 
 ## YouTube 🎥
 I publish a new YouTube video on the Frontmen channel with front-end tips every Friday. You can check it out [here](https://www.youtube.com/watch?v=ewtT4NJX6NA&list=PLsES66lgcKHD9oRnyN3PEvyTjWXJF4IgT)!
