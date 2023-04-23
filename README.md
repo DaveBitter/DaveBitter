@@ -10,11 +10,11 @@ I strive while utilising both the logical and creative part of the brain. I feel
 I write a lot on a wide range of topics regarding front-end development and everything linked to that. You can have a look at [davebitter.com](https://www.davebitter.com)!
 
 My latest articles:
+* 📝 [The File System Access API: Unlocking New Possibilities for Web Developers](https://davebitter.com/articles/the-view-transitions-api)
 * 📝 [The File System Access API: Unlocking New Possibilities for Web Developers](https://davebitter.com/articles/the-file-system-access-api)
 * 📝 [Unleash the Power of Web Workers for Blazing Fast JavaScript Execution](https://davebitter.com/articles/web-workers)
 * 📝 [I want to React.use() this!](https://davebitter.com/articles/i-want-to-react-use-this)
 * 📝 [You need CSS Cascade Layers](https://davebitter.com/articles/you-need-css-cascade-layers)
-* 📝 [Developers are not Trusted Types!](https://davebitter.com/articles/developers-are-not-trusted-types)
 
 ## YouTube 🎥
 I publish a new YouTube video on the Frontmen channel with front-end tips every Friday. You can check it out [here](https://www.youtube.com/watch?v=ewtT4NJX6NA&list=PLsES66lgcKHD9oRnyN3PEvyTjWXJF4IgT)!
