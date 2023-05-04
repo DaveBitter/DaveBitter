@@ -2,9 +2,15 @@ _Curious how this dynamic README was made? Check out https://youtu.be/jVg-qkQ01l
 
 # Hi, I'm Dave 👋
 
-<strong>I am a Senior Front-end Engineer and Designer.</strong>
+<strong>I am a Senior Front-end Consultant, Developer Advocate and Google Developer Expert for Web.</strong>
 
-I strive while utilising both the logical and creative part of the brain. I feel most in my place while continuously operating in these roles as a front-end developer within a team. I stand for quality, innovation and building useful products with a focus on the human using the product. I am a proactive, confident and communicatively strong person always looking ahead in the future.
+I am a Senior Front-end Consultant, Developer Advocate, and Google Developer Expert for Web, with a rich background in development and design. I have amassed considerable experience creating state-of-the-art, human-centered web applications. As a Developer Advocate, I take immense joy in sharing my expertise with fellow developers and empowering them with the tools, resources, and support needed to deliver exceptional web experiences.
+
+I have a unique perspective on web development, combining my experience in both development and design to deliver exceptional results for clients. I am skilled in developing user interfaces that enhance the user experience and enjoy working collaboratively with designers to create visually engaging designs. My approach to web development is always user-centered, ensuring that the end product is not only functional but also aesthetically pleasing. My expertise in user-centered design ensures that my web solutions are not only visually stunning but also intuitive and easy to use.
+
+I have worked with a wide range of organizations, including large multinationals and small startups, and have helped them overcome challenges and achieve their goals. In my current role as a Senior Front-end Consultant, I continue to deliver innovative, user-centered web solutions that exceed client expectations.
+
+In conclusion, my skills, experience, and passion make me a valuable asset to any organization. I am excited about the prospect of contributing to an organization's mission of delivering exceptional web experiences and look forward to the opportunity to discuss my qualifications further.
 
 ## Writing 📝
 I write a lot on a wide range of topics regarding front-end development and everything linked to that. You can have a look at [davebitter.com](https://www.davebitter.com)!
