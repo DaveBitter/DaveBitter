@@ -16,11 +16,11 @@ In conclusion, my skills, experience, and passion make me a valuable asset to an
 I write a lot on a wide range of topics regarding front-end development and everything linked to that. You can have a look at [davebitter.com](https://www.davebitter.com)!
 
 My latest articles:
-* 📝 [Inversion of Control through Compound Components](https://davebitter.com/articles/inversion-of-control-through-compound-components)
-* 📝 [The File System Access API: Unlocking New Possibilities for Web Developers](https://davebitter.com/articles/the-view-transitions-api)
-* 📝 [The File System Access API: Unlocking New Possibilities for Web Developers](https://davebitter.com/articles/the-file-system-access-api)
-* 📝 [Unleash the Power of Web Workers for Blazing Fast JavaScript Execution](https://davebitter.com/articles/web-workers)
-* 📝 [I want to React.use() this!](https://davebitter.com/articles/i-want-to-react-use-this)
+* 📝 [Reducing latency in AI Speech Synthesis](https://davebitter.com/articles/reducing-latency-in-ai-speech-synthesis)
+* 📝 [Interacting with ChatGPT through Voice UI on the web](https://davebitter.com/articles/interacting-with-chat-gpt-through-voice-ui-on-the-web)
+* 📝 [Make awesome animated interactions with two lines of code](https://davebitter.com/articles/view-transitions-api-animated-interactions)
+* 📝 [Finite State Machines in JavaScript](https://davebitter.com/articles/finite-state-machines-in-javascript)
+* 📝 [IndexedDB &gt; Web Storage](https://davebitter.com/articles/indexed-db-web-storage)
 
 ## YouTube 🎥
 I publish a new YouTube video on the Frontmen channel with front-end tips every Friday. You can check it out [here](https://www.youtube.com/watch?v=ewtT4NJX6NA&list=PLsES66lgcKHD9oRnyN3PEvyTjWXJF4IgT)!
